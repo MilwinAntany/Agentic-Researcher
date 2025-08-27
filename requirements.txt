@@ -1,0 +1,12 @@
+duckduckgo-search
+requests
+beautifulsoup4
+pydantic
+pydantic-settings
+python-dotenv
+chromadb
+tiktoken
+pdfminer.six
+pymupdf
+openai
+reportlab
