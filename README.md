@@ -1,7 +1,5 @@
 # 🧑‍🔬 Agentic Researcher – End-to-End AI-Powered Research Assistant
 
-## 📌 Two-Line Overview
-
 An AI-powered research assistant that automates topic exploration, question generation, and intelligent synthesis using Large Language Models (LLMs).
 Built with modular architecture to support multiple providers like **Ollama** for lightweight and efficient inference.
 
@@ -9,8 +7,11 @@ Built with modular architecture to support multiple providers like **Ollama** fo
 
 ## 🔍 Project Overview
 
-This project provides an **end-to-end agentic research framework** where users can input a topic, and the system automatically generates research questions, reasons through them, and produces structured insights. It is designed to demonstrate how LLMs can assist in **automated research, planning, and knowledge synthesis**.
-
+* **Automated Research Workflow** – Takes a user-defined topic and generates structured research questions.
+* **LLM-Powered Insights** – Uses large language models (via Ollama or OpenAI) to reason through questions and produce meaningful outputs.
+* **Modular Architecture** – Designed with independent modules (Planner, Reasoner, LLM Utility, Orchestrator) for flexibility and scalability.
+* **Lightweight Execution** – Runs locally with compact models like phi3:mini, avoiding dependency on paid cloud APIs.
+* **Structured Output** – Delivers clear, organized results that can be extended into reports or integrated with knowledge bases.
 ---
 
 ## ✨ Features
